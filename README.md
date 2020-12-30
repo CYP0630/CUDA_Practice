@@ -1,2 +1,2 @@
-# cuda_note
+# CUDA_Practice
 Study CUDA
